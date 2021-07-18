@@ -829,75 +829,75 @@
     "Consumables": {
 
         "Food": [
-            {"Name": "87 Flavor Cake", "Price": 600, "Rarity": 4},
-            {"Name": "Assorted Chocolates", "Price": 250, "Rarity": 4},
-            {"Name": "Assorted Donuts", "Price": 100, "Rarity": 3},
-            {"Name": "Celebration Cake", "Price": 600, "Rarity": 4},
-            {"Name": "Cheese Pizza", "Price": 85, "Rarity": 1},
-            {"Name": "Chocolate Cake", "Price": 500, "Rarity": 4},
-            {"Name": "Chocolate Donuts", "Price": 100, "Rarity": 3},
-            {"Name": "Fancy Bubbly", "Price": 1000, "Rarity": 5},
-            {"Name": "Glazed Donuts", "Price": 90, "Rarity": 1},
-            {"Name": "Hawaiian Pizza", "Price": 95, "Rarity": 2},
-            {"Name": "Pepperoni Pizza", "Price": 90, "Rarity": 2},
-            {"Name": "Popcorn", "Price": 100, "Rarity": 4},
-            {"Name": "Red Velvet Cake", "Price": 500, "Rarity": 4},
-            {"Name": "Root Beer", "Price": 50, "Rarity": 1},
-            {"Name": "Salted Pretzels", "Price": 75, "Rarity": 1},
-            {"Name": "Supreme Pizza", "Price": 95, "Rarity": 3},
-            {"Name": "Latte", "Price": 95, "Rarity": 2}
+            {"Name": "87 Flavor Cake", "Price": 600, "Rarity": 4, "Premium": false},
+            {"Name": "Assorted Chocolates", "Price": 250, "Rarity": 4, "Premium": false},
+            {"Name": "Assorted Donuts", "Price": 100, "Rarity": 3, "Premium": false},
+            {"Name": "Celebration Cake", "Price": 600, "Rarity": 4, "Premium": false},
+            {"Name": "Cheese Pizza", "Price": 85, "Rarity": 1, "Premium": false},
+            {"Name": "Chocolate Cake", "Price": 500, "Rarity": 4, "Premium": false},
+            {"Name": "Chocolate Donuts", "Price": 100, "Rarity": 3, "Premium": false},
+            {"Name": "Fancy Bubbly", "Price": 1000, "Rarity": 5, "Premium": false},
+            {"Name": "Glazed Donuts", "Price": 90, "Rarity": 1, "Premium": false},
+            {"Name": "Hawaiian Pizza", "Price": 95, "Rarity": 2, "Premium": false},
+            {"Name": "Pepperoni Pizza", "Price": 90, "Rarity": 2, "Premium": false},
+            {"Name": "Popcorn", "Price": 100, "Rarity": 4, "Premium": false},
+            {"Name": "Red Velvet Cake", "Price": 500, "Rarity": 4, "Premium": false},
+            {"Name": "Root Beer", "Price": 50, "Rarity": 1, "Premium": false},
+            {"Name": "Salted Pretzels", "Price": 75, "Rarity": 1, "Premium": false},
+            {"Name": "Supreme Pizza", "Price": 95, "Rarity": 3, "Premium": false},
+            {"Name": "Latte", "Price": 95, "Rarity": 2, "Premium": false}
         ],
 
         "Potion": [
-            {"Name": "Ego Potion", "Price": 200, "Rarity": 4},
-            {"Name": "High Five Potion (Golden)", "Price": 30, "Rarity": 1},
-            {"Name": "High Five Potion (Magic)", "Price": 30, "Rarity": 1}
+            {"Name": "Ego Potion", "Price": 200, "Rarity": 4, "Premium": false},
+            {"Name": "High Five Potion (Golden)", "Price": 30, "Rarity": 1, "Premium": false},
+            {"Name": "High Five Potion (Magic)", "Price": 30, "Rarity": 1, "Premium": false}
         ],
 
         "Film": [
-            {"Name": "Film (Black & White)", "Price": 20, "Rarity": 1},
-            {"Name": "Film (Dawn)", "Price": 20, "Rarity": 1},
-            {"Name": "Film (Sepia)", "Price": 20, "Rarity": 1}
+            {"Name": "Film (Black & White)", "Price": 20, "Rarity": 1, "Premium": false},
+            {"Name": "Film (Dawn)", "Price": 20, "Rarity": 1, "Premium": false},
+            {"Name": "Film (Sepia)", "Price": 20, "Rarity": 1, "Premium": false}
         ],
 
         "Random Box": [
-            {"Name": "2 Star Unique Box", "Price": 200, "Rarity": 2},
-            {"Name": "3 Star Unique Box", "Price": 500, "Rarity": 3},
-            {"Name": "4 Star Unique Box", "Price": 800, "Rarity": 4}
+            {"Name": "2 Star Unique Box", "Price": 200, "Rarity": 2, "Premium": false},
+            {"Name": "3 Star Unique Box", "Price": 500, "Rarity": 3, "Premium": false},
+            {"Name": "4 Star Unique Box", "Price": 800, "Rarity": 4, "Premium": false}
         ],
 
         "Hair Dye": [
-            {"Name": "Permanent Hair Dye (Bucket Orange)", "Price": 5000, "Rarity": 5},
-            {"Name": "Permanent Hair Dye (Butterfly Blue)", "Price": 5000, "Rarity": 5},
-            {"Name": "Permanent Hair Dye (Cauldron Crimson)", "Price": 5000, "Rarity": 5},
-            {"Name": "Permanent Hair Dye (Circuit Cerulean)", "Price": 5000, "Rarity": 5},
-            {"Name": "Permanent Hair Dye (EDM Emerald)", "Price": 5000, "Rarity": 5},
-            {"Name": "Permanent Hair Dye (Frontier Forest)", "Price": 5000, "Rarity": 5},
-            {"Name": "Permanent Hair Dye (Gizmo Grape)", "Price": 5000, "Rarity": 5},
-            {"Name": "Permanent Hair Dye (Goblin Green)", "Price": 5000, "Rarity": 5},
-            {"Name": "Permanent Hair Dye (H2Oasis Blue)", "Price": 5000, "Rarity": 5},
-            {"Name": "Permanent Hair Dye (Jungle Jade)", "Price": 5000, "Rarity": 5},
-            {"Name": "Permanent Hair Dye (KREQ Red)", "Price": 5000, "Rarity": 5},
-            {"Name": "Permanent Hair Dye (Maker Mauve)", "Price": 5000, "Rarity": 5},
-            {"Name": "Permanent Hair Dye (Mousebot Magenta)", "Price": 5000, "Rarity": 5},
-            {"Name": "Permanent Hair Dye (Paula's Periwinkle)", "Price": 5000, "Rarity": 5},
-            {"Name": "Permanent Hair Dye (Pirate Gold)", "Price": 5000, "Rarity": 5},
-            {"Name": "Permanent Hair Dye (Propulsion Purple)", "Price": 5000, "Rarity": 5},
-            {"Name": "Permanent Hair Dye (PVPeach)", "Price": 5000, "Rarity": 5},
-            {"Name": "Permanent Hair Dye (Ranger Roy-Al Blue)", "Price": 5000, "Rarity": 5},
-            {"Name": "Permanent Hair Dye (Rebel Rose)", "Price": 5000, "Rarity": 5},
-            {"Name": "Permanent Hair Dye (Recreational Raspberry)", "Price": 5000, "Rarity": 5},
-            {"Name": "Permanent Hair Dye (Standee Sandy)", "Price": 5000, "Rarity": 5},
-            {"Name": "Permanent Hair Dye (Attack Lilac)", "Price": 5000, "Rarity": 5}
+            {"Name": "Permanent Hair Dye (Bucket Orange)", "Price": 5000, "Rarity": 5, "Premium": false},
+            {"Name": "Permanent Hair Dye (Butterfly Blue)", "Price": 5000, "Rarity": 5, "Premium": false},
+            {"Name": "Permanent Hair Dye (Cauldron Crimson)", "Price": 5000, "Rarity": 5, "Premium": false},
+            {"Name": "Permanent Hair Dye (Circuit Cerulean)", "Price": 5000, "Rarity": 5, "Premium": false},
+            {"Name": "Permanent Hair Dye (EDM Emerald)", "Price": 5000, "Rarity": 5, "Premium": false},
+            {"Name": "Permanent Hair Dye (Frontier Forest)", "Price": 5000, "Rarity": 5, "Premium": false},
+            {"Name": "Permanent Hair Dye (Gizmo Grape)", "Price": 5000, "Rarity": 5, "Premium": false},
+            {"Name": "Permanent Hair Dye (Goblin Green)", "Price": 5000, "Rarity": 5, "Premium": false},
+            {"Name": "Permanent Hair Dye (H2Oasis Blue)", "Price": 5000, "Rarity": 5, "Premium": false},
+            {"Name": "Permanent Hair Dye (Jungle Jade)", "Price": 5000, "Rarity": 5, "Premium": false},
+            {"Name": "Permanent Hair Dye (KREQ Red)", "Price": 5000, "Rarity": 5, "Premium": false},
+            {"Name": "Permanent Hair Dye (Maker Mauve)", "Price": 5000, "Rarity": 5, "Premium": false},
+            {"Name": "Permanent Hair Dye (Mousebot Magenta)", "Price": 5000, "Rarity": 5, "Premium": false},
+            {"Name": "Permanent Hair Dye (Paula's Periwinkle)", "Price": 5000, "Rarity": 5, "Premium": false},
+            {"Name": "Permanent Hair Dye (Pirate Gold)", "Price": 5000, "Rarity": 5, "Premium": false},
+            {"Name": "Permanent Hair Dye (Propulsion Purple)", "Price": 5000, "Rarity": 5, "Premium": false},
+            {"Name": "Permanent Hair Dye (PVPeach)", "Price": 5000, "Rarity": 5, "Premium": false},
+            {"Name": "Permanent Hair Dye (Ranger Roy-Al Blue)", "Price": 5000, "Rarity": 5, "Premium": false},
+            {"Name": "Permanent Hair Dye (Rebel Rose)", "Price": 5000, "Rarity": 5, "Premium": false},
+            {"Name": "Permanent Hair Dye (Recreational Raspberry)", "Price": 5000, "Rarity": 5, "Premium": false},
+            {"Name": "Permanent Hair Dye (Standee Sandy)", "Price": 5000, "Rarity": 5, "Premium": false},
+            {"Name": "Permanent Hair Dye (Attack Lilac)", "Price": 5000, "Rarity": 5, "Premium": false}
         ],
 
         "KO Icon": [
-            {"Name": "KO Icon - Bear Claw", "Price": 200, "Rarity": 4},
-            {"Name": "KO Icon - Grenade", "Price": 150, "Rarity": 3},
-            {"Name": "KO Icon - Star Power", "Price": 200, "Rarity": 4},
-            {"Name": "KO Icon - Sword & Shield", "Price": 150, "Rarity": 3},
-            {"Name": "KO Icon - Tire Track", "Price": 200, "Rarity": 3},
-            {"Name": "KO Icon - Winged Skull", "Price": 100, "Rarity": 3}
+            {"Name": "KO Icon - Bear Claw", "Price": 200, "Rarity": 4, "Premium": false},
+            {"Name": "KO Icon - Grenade", "Price": 150, "Rarity": 3, "Premium": false},
+            {"Name": "KO Icon - Star Power", "Price": 200, "Rarity": 4, "Premium": false},
+            {"Name": "KO Icon - Sword & Shield", "Price": 150, "Rarity": 3, "Premium": false},
+            {"Name": "KO Icon - Tire Track", "Price": 200, "Rarity": 3, "Premium": false},
+            {"Name": "KO Icon - Winged Skull", "Price": 100, "Rarity": 3, "Premium": false}
         ]
     }
 }
