@@ -1,2 +1,7 @@
 # Rec-Room-Store-JSON
-A JSON containing all (hopefully) of the items in the Rec Room Item Shop
+
+##What IS in the file
+* All purchasable items in the Rec Room Item Shop and their prices
+
+##Whats NOT in the file
+* All items that CANNOT be bought using Tokens
