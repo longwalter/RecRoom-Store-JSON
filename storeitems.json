@@ -899,5 +899,46 @@
             {"Name": "KO Icon - Tire Track", "Price": 200, "Rarity": 3, "Premium": false},
             {"Name": "KO Icon - Winged Skull", "Price": 100, "Rarity": 3, "Premium": false}
         ]
+    },
+    "Skins": {
+
+        "Die Skin": [
+            {"Name": "D10 Skin (Bone)", "Price": 750, "Rarity": 4, "Premium": false},
+            {"Name": "D10 Skin (Pewter)", "Price": 700, "Rarity": 4, "Premium": false},
+            {"Name": "D10 Skin (Pink)", "Price": 400, "Rarity": 3, "Premium": false},
+            {"Name": "D10 Skin (Turquoise)", "Price": 500, "Rarity": 3, "Premium": false},
+            {"Name": "D12 Skin (Bone)", "Price": 750, "Rarity": 4, "Premium": false},
+            {"Name": "D12 Skin (Pewter)", "Price": 700, "Rarity": 4, "Premium": false},
+            {"Name": "D12 Skin (Pink)", "Price": 400, "Rarity": 3, "Premium": false},
+            {"Name": "D12 Skin (Turquoise)", "Price": 500, "Rarity": 3, "Premium": false},
+            {"Name": "D20 Skin (Bone)", "Price": 750, "Rarity": 4, "Premium": false},
+            {"Name": "D20 Skin (Pewter)", "Price": 700, "Rarity": 4, "Premium": false},
+            {"Name": "D20 Skin (Pink)", "Price": 400, "Rarity": 3, "Premium": false},
+            {"Name": "D20 Skin (Turquoise)", "Price": 500, "Rarity": 3, "Premium": false},
+            {"Name": "D4 Skin (Bone)", "Price": 750, "Rarity": 4, "Premium": false},
+            {"Name": "D4 Skin (Pewter)", "Price": 700, "Rarity": 4, "Premium": false},
+            {"Name": "D4 Skin (Pink)", "Price": 400, "Rarity": 3, "Premium": false},
+            {"Name": "D4 Skin (Turquoise)", "Price": 500, "Rarity": 3, "Premium": false},
+            {"Name": "D6 Skin (Bone)", "Price": 750, "Rarity": 4, "Premium": false},
+            {"Name": "D6 Skin (Pewter)", "Price": 700, "Rarity": 4, "Premium": false},
+            {"Name": "D6 Skin (Pink)", "Price": 400, "Rarity": 3, "Premium": false},
+            {"Name": "D6 Skin (Turquoise)", "Price": 500, "Rarity": 3, "Premium": false},
+            {"Name": "D8 Skin (Bone)", "Price": 750, "Rarity": 4, "Premium": false},
+            {"Name": "D8 Skin (Pewter)", "Price": 700, "Rarity": 4, "Premium": false},
+            {"Name": "D8 Skin (Pink)", "Price": 400, "Rarity": 3, "Premium": false},
+            {"Name": "D8 Skin (Turquoise)", "Price": 500, "Rarity": 3, "Premium": false}
+        ],
+        
+        "Maker Pen Skin": [
+            {"Name": "Maker Pen Skin (Green)", "Price": 900, "Rarity": 4, "Premium": false},
+            {"Name": "Maker Pen Skin (Purple)", "Price": 900, "Rarity": 4, "Premium": false},
+            {"Name": "Maker Pen Skin (Red)", "Price": 900, "Rarity": 4, "Premium": false},
+            {"Name": "Maker Pen Skin (Yellow)", "Price": 900, "Rarity": 4, "Premium": false}
+        ],
+
+        "Weapon Skin": [
+            {"Name": "Quest Shield Skin (Electric Bloom)", "Price": 2000, "Rarity": 5, "Premium": true}
+        ]
+
     }
 }
