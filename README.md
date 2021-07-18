@@ -11,7 +11,7 @@
 
 
 ## Whats NOT in the file
-* All items that CANNOT be bought using Tokens
+* All items that CANNOT be obtained using Tokens
 
 - The following info cannot be obtained:
   - The image of the item
