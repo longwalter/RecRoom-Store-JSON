@@ -10,7 +10,7 @@
   - Its Premium State (RR+ ONLY Clothing category) 
 
 
-## Whats NOT in the file
+## What IS NOT in the file
 * All items that CANNOT be obtained using Tokens
 
 - The following info cannot be obtained:
