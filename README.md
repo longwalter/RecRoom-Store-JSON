@@ -1,4 +1,4 @@
-## storeitems.json
+## RecRoon Store JSON Data
 
 ### What IS in the file
 * All purchasable items in the Rec Room Item Shop
