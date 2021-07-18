@@ -1,8 +1,6 @@
-# Rec-Room-Store-JSON
+## storeitems.json
 
-The JSON file is completed now however I plan on adding some extra info if I get around to it.
-
-## What IS in the file
+### What IS in the file
 * All purchasable items in the Rec Room Item Shop
 
 - The following info can be obtained:
@@ -12,7 +10,7 @@ The JSON file is completed now however I plan on adding some extra info if I get
   - Its Premium State (RR+) 
 
 
-## What IS NOT in the file
+### What IS NOT in the file
 * All items that CANNOT be obtained using Tokens
 
 - The following info cannot be obtained:
