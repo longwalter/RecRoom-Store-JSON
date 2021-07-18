@@ -7,7 +7,7 @@
   - The Name
   - The Price
   - The Rarity
-  - Its Premium State (RR+ and Clothing category) 
+  - Its Premium State (RR+ ONLY Clothing category) 
 
 
 ## Whats NOT in the file
