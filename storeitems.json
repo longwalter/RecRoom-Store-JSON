@@ -825,7 +825,7 @@
             {"Name": "Side Pony Hair", "Price": 250, "Rarity": 2, "Premium": false}
         ]             
     },
-
+    
     "Consumables": {
 
         "Food": [
@@ -900,6 +900,7 @@
             {"Name": "KO Icon - Winged Skull", "Price": 100, "Rarity": 3, "Premium": false}
         ]
     },
+    
     "Skins": {
 
         "Die Skin": [
@@ -939,6 +940,5 @@
         "Weapon Skin": [
             {"Name": "Quest Shield Skin (Electric Bloom)", "Price": 2000, "Rarity": 5, "Premium": true}
         ]
-
     }
 }
