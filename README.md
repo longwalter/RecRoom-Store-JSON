@@ -9,7 +9,7 @@ The JSON file is completed now however I plan on adding some extra info if I get
   - The Name
   - The Price
   - The Rarity
-  - Its Premium State (RR+ ONLY Clothing category) 
+  - Its Premium State (RR+) 
 
 
 ## What IS NOT in the file
