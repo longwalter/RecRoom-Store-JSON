@@ -2,6 +2,7 @@
 
 ## What IS in the file
 * All purchasable items in the Rec Room Item Shop
+* Their name
 * Their Price
 * Their Rarity
 
