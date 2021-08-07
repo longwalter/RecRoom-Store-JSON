@@ -661,7 +661,7 @@
             {"Name": "Paintball Belt", "Price": 800, "Rarity": 4, "Premium": false},
             {"Name": "Paintball Goggles", "Price": 550, "Rarity": 3, "Premium": false},
             {"Name": "Pegasus Wings", "Price": 5500, "Rarity": 5, "Premium": true},
-            {"Name": "Plastic Sunglasses", "Price": 300, "Rarity": 2, "Premium": false},        
+            {"Name": "Plastic Sunglasses (Black)", "Price": 300, "Rarity": 2, "Premium": false},        
             {"Name": "Plastic Sunglasses (Blue)", "Price": 300, "Rarity": 2, "Premium": false},
             {"Name": "Plastic Sunglasses (Green)", "Price": 300, "Rarity": 2, "Premium": false},
             {"Name": "Plastic Sunglasses (Red)", "Price": 300, "Rarity": 2, "Premium": false},
