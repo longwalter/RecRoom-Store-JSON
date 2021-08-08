@@ -12,6 +12,7 @@
 
 ### What IS NOT in the file
 * All items that CANNOT be obtained using Tokens
+* Items that are limited
 
 - The following info cannot be obtained:
   - The image of the item
