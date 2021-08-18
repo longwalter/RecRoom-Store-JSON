@@ -857,7 +857,8 @@
             {"Name": "Red Velvet Cake", "Price": 500, "Rarity": 4, "Premium": false},
             {"Name": "Root Beer", "Price": 50, "Rarity": 1, "Premium": false},
             {"Name": "Salted Pretzels", "Price": 75, "Rarity": 1, "Premium": false},
-            {"Name": "Supreme Pizza", "Price": 95, "Rarity": 3, "Premium": false},
+            {"Name": "Supreme Pizza", "Price": 95, "Rarity": 3, "Premium": false},       
+            {"Name": "Sushi", "Price": 750, "Rarity": 4, "Premium": false},       
             {"Name": "Latte", "Price": 95, "Rarity": 2, "Premium": false}
         ],
 
