@@ -820,7 +820,11 @@
             {"Name": "Windbreaker Cuffs (Teal)", "Price": 100, "Rarity": 2, "Premium": false},
             {"Name": "Windbreaker Cuffs (Yellow)", "Price": 100, "Rarity": 2, "Premium": false},
             {"Name": "Witch Hunter Gloves (Blue)", "Price": 800, "Rarity": 4, "Premium": false},
-            {"Name": "Wizard Bracers (Purple)", "Price": 900, "Rarity": 4, "Premium": false}
+            {"Name": "Wizard Bracers (Purple)", "Price": 900, "Rarity": 4, "Premium": false},    
+            {"Name": "Wristbands (Moons & Stars)", "Price": 250, "Rarity": 2, "Premium": false},
+            {"Name": "Wristbands (Plaid)", "Price": 250, "Rarity": 2, "Premium": false},
+            {"Name": "Wristbands (Polka Dot)", "Price": 250, "Rarity": 2, "Premium": false}
+            
         ],
 
         "Hair": [
