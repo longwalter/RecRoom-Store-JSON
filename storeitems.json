@@ -28,7 +28,7 @@
             {"Name": "Barbershop Shirt (Black)", "Price": 750, "Rarity": 4, "Premium": false},
             {"Name": "Barbershop Shirt (Green)", "Price": 750, "Rarity": 4, "Premium": false},
             {"Name": "Barbershop Shirt (Red)", "Price": 750, "Rarity": 4, "Premium": false},
-            {"Name": "Barbershop Shirt (Green)", "Price": 750, "Rarity": 4, "Premium": false},
+            {"Name": "Bard's Vest", "Price": 1250, "Rarity": 5, "Premium": false},
             {"Name": "Baseball Jersey (Green)", "Price": 500, "Rarity": 3, "Premium": false},
             {"Name": "Baseball Jersey (White, Blue)", "Price": 500, "Rarity": 3, "Premium": false},
             {"Name": "Baseball Jersey (White, Green)", "Price": 500, "Rarity": 3, "Premium": false},
@@ -373,6 +373,7 @@
             {"Name": "Barbershop Hat (Black)", "Price": 500, "Rarity": 3, "Premium": false},
             {"Name": "Barbershop Hat (Green)", "Price": 500, "Rarity": 3, "Premium": false},
             {"Name": "Barbershop Hat (Red)", "Price": 500, "Rarity": 3, "Premium": false},
+            {"Name": "Bard's Hat", "Price": 450, "Rarity": 3, "Premium": false},
             {"Name": "Baseball Cap (White, Red, Blue)", "Price": 150, "Rarity": 2, "Premium": false},
             {"Name": "Baseball Helmet (Blue)", "Price": 500, "Rarity": 3, "Premium": false},
             {"Name": "Baseball Helmet (Green)", "Price": 500, "Rarity": 3, "Premium": false},
@@ -742,6 +743,7 @@
             {"Name": "Winner's Medal (Silver)", "Price": 1250, "Rarity": 5, "Premium": false},
             {"Name": "Winter Cloak (Hearhstone)", "Price": 4500, "Rarity": 5, "Premium": false},
             {"Name": "Winter Cloak (Nightwatch)", "Price": 4500, "Rarity": 5, "Premium": false}
+            {"Name": "Wolf Amulet", "Price": 5, "Rarity": 1500, "Premium": true},   
         ],
 
         "Gloves": [
@@ -760,6 +762,7 @@
             {"Name": "Aviator Gloves (Tan)", "Price": 200, "Rarity": 2, "Premium": false},
             {"Name": "Barbershop Wrist (Black)", "Price": 200, "Rarity": 2, "Premium": false},
             {"Name": "Barbershop Wrist (White)", "Price": 200, "Rarity": 2, "Premium": false},
+            {"Name": "Bard's Cuffs", "Price": 700, "Rarity": 4, "Premium": false},
             {"Name": "Beekeeper Gloves (Gold)", "Price": 700, "Rarity": 4, "Premium": false},
             {"Name": "Beekeeper Gloves (Purple)", "Price": 700, "Rarity": 4, "Premium": false},
             {"Name": "Beekeeper Gloves (Teal)", "Price": 700, "Rarity": 4, "Premium": false},
