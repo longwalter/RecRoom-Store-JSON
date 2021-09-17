@@ -743,7 +743,8 @@
             {"Name": "Winner's Medal (Silver)", "Price": 1250, "Rarity": 5, "Premium": false},
             {"Name": "Winter Cloak (Hearhstone)", "Price": 4500, "Rarity": 5, "Premium": false},
             {"Name": "Winter Cloak (Nightwatch)", "Price": 4500, "Rarity": 5, "Premium": false}
-            {"Name": "Wolf Amulet", "Price": 5, "Rarity": 1500, "Premium": true},   
+            {"Name": "Wolf Amulet", "Price": 1500, "Rarity": 5, "Premium": true},   
+            {"Name": "Wolf Steel Backsword", "Price": 4500, "Rarity": 5, "Premium": false},  
         ],
 
         "Gloves": [
